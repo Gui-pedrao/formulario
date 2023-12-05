@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap');
+body{
+    background: #1D2336
+}
+div{
+    border-radius: 67px;
+    background: #D9D9D9;
+    width: 700px;
+    height: 645px;
+    flex-shrink: 0;
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: rgb(255, 255, 255)afa;
+    text-align: center;
+    border-radius: 67px;
+    background: #283259;
+    color: #ffffff;
+}
+h1{
+    font-family: 'jaldi';
+    text-align: center;
+}
+input{
+    border: none;
+    outline: none;
+    width: 500px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 67px;
+    background: #fffdfd;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 10px;
+}
+label{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'inria sans';
+}
+input[type="password"] {
+    width: 500px;
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+button{
+    border-radius: 67px;
+    background: #2947B9;
+    width: 364px;
+    height: 83px;
+    flex-shrink: 0;
+    border: none;
+    font-family: 'jaldi';
+    color: #ffffff;
+    font-size: 24px;
+  }
+
+  
